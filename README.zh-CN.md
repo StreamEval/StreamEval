@@ -136,11 +136,11 @@ streameval evaluate --system ID --launch --out runs_full \
 ## 引用
 
 ```bibtex
-@article{streameval2026,
-  title        = {StreamEval: Evaluating Interactive Streaming Video Generation Models},
-  author       = {{StreamEval Team}},
-  journal      = {arXiv preprint arXiv:2610.28402},
-  year         = {2026}
+@article{team2026streameval,
+  title={StreamEval: Evaluating Interactive Streaming Video Generation Models},
+  author={Team, StreamEval},
+  journal={arXiv preprint arXiv:2610.28402},
+  year={2026}
 }
 ```
 
